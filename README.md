@@ -1,1 +1,1 @@
-# How-to-Win-a-Data-Science-Competition-Learn-from-Top-Kagglers
+# In case anybody wants to use this, I recommend to try first and then look at the answers!
